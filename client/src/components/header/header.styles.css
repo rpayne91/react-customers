@@ -1,0 +1,20 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e2e2e2;
+    padding: 15px;
+}
+
+.header-container nav a{
+    text-decoration: none;
+    padding: 10px
+}
+
+.header-container nav a {
+    color: black;
+}
+
+.header-container nav a:hover {
+    color: black;
+}

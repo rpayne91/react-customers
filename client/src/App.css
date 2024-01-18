@@ -1,0 +1,22 @@
+button {
+	padding: 10px;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.content {
+	flex: 1; /* This will make the content take up remaining vertical space */
+    padding: 15px;
+}
+
+.footer-container {
+	height: 40px;
+	background-color: #333; /* Set your desired background color */
+	color: white;
+	text-align: center;
+	line-height: 40px;
+}
